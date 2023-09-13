@@ -1,4 +1,4 @@
-# Jogo1
+# Ping-Pong Virtual 2P.
 
 > Status do projeto: Finalizado.
 
